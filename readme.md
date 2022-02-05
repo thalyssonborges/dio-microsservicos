@@ -188,8 +188,6 @@ Se possível:
 
 ⭐️  Star o projeto
 
-🐛 Encontrar e relatar issues
-
 
 ------------
 
