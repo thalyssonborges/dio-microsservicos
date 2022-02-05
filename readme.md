@@ -193,7 +193,7 @@ Se possível:
 
 ------------
 
-Disponibilizado por [thalysson-borges](www.linkedin.com/in/thalysson-borges "Thalysson borges").
+Disponibilizado por [thalysson-borges](https://www.linkedin.com/in/thalysson-borges/ "thalysson-borges").
 
 #### fontes:
 https://medium.com/tech-tajawal/backend-for-frontend-using-graphql-under-microservices-5b63bbfcd7d9
